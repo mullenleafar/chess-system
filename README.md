@@ -1,2 +1,2 @@
 # chess-system
- Implementando jogo de xadrez com Java pelo curso com o professor Nélio Alves.
+ Jogo de xadrez com Java replicado a partir das aulas do curso do professor Nélio Alves enquanto revejo conceitos de orientação a objetos.
